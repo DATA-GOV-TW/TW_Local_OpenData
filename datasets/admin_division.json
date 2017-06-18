@@ -1,0 +1,140 @@
+{
+  "reference" : [
+    "wikipedia" : "臺灣行政區劃",
+    "url" : "https://www.wikiwand.com/zh-hant/%E8%87%BA%E7%81%A3%E8%A1%8C%E6%94%BF%E5%8D%80%E5%8A%83"
+  ],
+  "Taiwan" : [
+    {
+      "OID" : "2.16.886.101.90003",
+      "r_name" : "臺北市",
+      "r_class" : "直轄市",
+      "r_hierarcy" : "行政院"
+    },
+    {
+      "OID" : "2.16.886.101.90026" ,
+      "r_name" : "新北市",
+      "r_class" : "直轄市",
+      "r_hierarcy" : "行政院"
+    },
+    {
+      "OID" : "2.16.886.101.90030",
+      "r_name" : "桃園市",
+      "r_class" : "直轄市",
+      "r_hierarcy" : "行政院"
+    },
+    {
+      "OID" : "2.16.886.101.90027",
+      "r_name" : "臺中市",
+      "r_class" : "直轄市",
+      "r_hierarcy" : "行政院"
+    },
+    {
+      "OID" : "2.16.886.101.90028",
+      "r_name" : "臺南市",
+      "r_class" : "直轄市",
+      "r_hierarcy" : "行政院"
+    },
+    {
+      "OID" : "2.16.886.101.90029",
+      "r_name" : "高雄市",
+      "r_class" : "直轄市",
+      "r_hierarcy" : "行政院"
+    },
+    {
+      "OID" : ,
+      "r_name" : "新竹縣",
+      "r_class" : "縣",
+      "r_hierarchy" : "臺灣省"
+    },
+    {
+      "OID" : ,
+      "r_name" : "苗栗縣",
+      "r_class" : "縣",
+      "r_hierarchy" : "臺灣省"
+    },
+    {
+      "OID" : ,
+      "r_name" : "彰化縣",
+      "r_class" : "縣",
+      "r_hierarchy" : "臺灣省"
+    },
+    {
+      "OID" : ,
+      "r_name" : "南投縣",
+      "r_class" : "縣",
+      "r_hierarchy" : "臺灣省"
+    },
+    {
+      "OID" : ,
+      "r_name" : "雲林縣",
+      "r_class" : "縣",
+      "r_hierarchy" : "臺灣省"
+    },
+    {
+      "OID" : ,
+      "r_name" : "嘉義縣",
+      "r_class" : "縣",
+      "r_hierarchy" : "臺灣省"
+    },
+    {
+      "OID" : ,
+      "r_name" : "屏東縣",
+      "r_class" : "縣",
+      "r_hierarchy" : "臺灣省"
+    },
+    {
+      "OID" : ,
+      "r_name" : "宜蘭縣",
+      "r_class" : "縣",
+      "r_hierachy" : "臺灣省"
+    },
+    {
+      "OID" : ,
+      "r_name" : "花蓮縣",
+      "r_class" : "縣",
+      "r_hierarchy" : "臺灣省"
+    },
+    {
+      "OID" : ,
+      "r_name" : "臺東縣",
+      "r_class" : "縣",
+      "r_hierarchy" : "臺灣省"
+    },
+    {
+      "OID" : ,
+      "r_name" : "澎湖縣",
+      "r_class" : "縣",
+      "r_hierarchy" : "臺灣省"
+    },
+    {
+      "OID" : ,
+      "r_name" : "基隆市",
+      "r_class" : "市",
+      "r_hierarchy" : "臺灣省"      
+    },
+    {
+      "OID" : ,
+      "r_name" : "新竹市",
+      "r_class" : "市",
+      "r_hierarchy" : "臺灣省"      
+    },
+    {
+      "OID" : ,
+      "r_name" : "嘉義市",
+      "r_class" : "市",
+      "r_hierarchy" : "臺灣省"      
+    },
+     {
+      "OID" : ,
+      "r_name" : "連江縣",
+      "r_class" : "縣",
+      "r_hierarchy" : "福建省"
+    },
+    {
+      "OID" : ,
+      "r_name" : "金門縣",
+      "r_class" : "縣",
+      "r_hierarchy" : "福建省"
+    },
+  ]
+}
