@@ -1,0 +1,230 @@
+{
+  "reference" : [
+    {
+      "wikipedia" : "開放資料",
+      "url" : "https://www.wikiwand.com/zh-hant/%E9%96%8B%E6%94%BE%E8%B3%87%E6%96%99"
+    }
+  ],
+  "Taiwan" : [
+    {
+      "OID" : "2.16.886.101.90003",
+      "o_name" : "臺北市",
+      "o_portal" : "臺北市政府資料開放平台",
+      "o_url" : "http://data.taipei/",
+      "o_ckan" : "1",
+      "o_full_list" : null,
+      "o_licence_type" : "customized",
+      "o_licence_url" : "http://data.taipei/opendata/rule"
+    },
+    {
+      "OID" : "2.16.886.101.90026" ,
+      "o_name" : "新北市",
+      "o_portal" : "新北市政府資料開放平台",
+      "o_url" : "http://data.ntpc.gov.tw/",
+      "o_ckan" : "0",
+      "o_full_list" : null,
+      "o_licence_type" : "臺灣政府資料開放授權條款第 1 版",
+      "o_licence_url" : "http://data.ntpc.gov.tw/ab/license"
+    },
+    {
+      "OID" : "2.16.886.101.90030",
+      "o_name" : "桃園市",
+      "o_portal" : "桃園市政府資料開放平台",
+      "o_url" : "http://data.tycg.gov.tw/",
+      "o_ckan" : "1",
+      "o_full_list" : "http://data.tycg.gov.tw/opendata/datasetDetail",
+      "o_licence_type" : "臺灣政府資料開放授權條款第 1 版",
+      "o_licence_url" : "http://data.tycg.gov.tw/opendata/rule"
+    },
+    {
+      "OID" : "2.16.886.101.90027",
+      "o_name" : "臺中市",
+      "o_portal" : "台中市政府資料開放平台",
+      "o_url" : "http://data.taichung.gov.tw/wSite/mp",
+      "o_ckan" : "0",
+      "o_full_list" : null,
+      "o_licence_type" : "臺灣政府資料開放授權條款第 1 版",
+      "o_licence_url" : "http://data.taichung.gov.tw/wSite/ct?xItem=2816&ctNode=222&mp=1"
+    },
+    {
+      "OID" : "2.16.886.101.90028",
+      "o_name" : "臺南市",
+      "o_portal" : "臺南市政府資料開放平台",
+      "o_url" : "http://data.tainan.gov.tw/",
+      "o_ckan" : "1",
+      "o_full_list" : null,
+      "o_licence_type" : "臺灣政府資料開放授權條款第 1 版",
+      "o_licence_url" : "http://data.tainan.gov.tw/specification"
+    },
+    {
+      "OID" : "2.16.886.101.90029",
+      "o_name" : "高雄市",
+      "o_portal" : "高雄市政府資料開放平台",
+      "o_url" : "http://data.kcg.gov.tw/",
+      "o_ckan" : "1",
+      "o_full_list" : null,
+      "o_licence_type" : "臺灣政府資料開放授權條款第 1 版",
+      "o_licence_url" : "http://data.kcg.gov.tw/specification"
+    },
+    {
+      "OID" : ,
+      "o_name" : "新竹縣",
+      "o_portal" : "新竹縣政府資料開放平台",
+      "o_url" : "https://data.hsinchu.gov.tw/",
+      "o_ckan" : "0",
+      "o_full_list" : null,
+      "o_licence_type" : "臺灣政府資料開放授權條款第 1 版",
+      "o_licence_url" : "https://data.hsinchu.gov.tw/Developer/Developer.aspx"
+    },
+    {
+      "OID" : ,
+      "o_name" : "苗栗縣",
+      "o_portal" : "國發會政府資料開放平台",
+      "o_url" : "http://data.gov.tw/wise_search?nodetype=metadataset&kw=%E8%8B%97%E6%A0%97%E7%B8%A3%E6%94%BF%E5%BA%9C",
+      "o_ckan" : "0",
+      "o_full_list" : null,
+      "o_licence_type" : "臺灣政府資料開放授權條款第 1 版",
+      "o_licence_url" : "http://data.gov.tw/license"
+    },
+    {
+      "OID" : ,
+      "o_name" : "彰化縣",
+      "o_portal" : "國發會政府資料開放平台",
+      "o_url" : "http://data.gov.tw/wise_search?nodetype=metadataset&kw=%E5%BD%B0%E5%8C%96%E7%B8%A3%E6%94%BF%E5%BA%9C",
+      "o_ckan" : "0",
+      "o_full_list" : null,
+      "o_licence_type" : "臺灣政府資料開放授權條款第 1 版",
+      "o_licence_url" : "http://data.gov.tw/license"
+    },
+    {
+      "OID" : ,
+      "o_name" : "南投縣",
+      "o_portal" : "南投縣政府資料開放平台",
+      "o_url" : "http://data.nantou.gov.tw/",
+      "o_ckan" : "1",
+      "o_full_list" : "",
+      "o_licence_type" : "臺灣政府資料開放授權條款第 0 版",
+      "o_licence_url" : "http://data.nantou.gov.tw/specification"
+    },
+    {
+      "OID" : ,
+      "o_name" : "雲林縣",
+      "o_portal" : "雲林縣政府資料開放平台",
+      "o_url" : "http://data.ntpc.gov.tw/",
+      "o_ckan" : "1",
+      "o_full_list" : "",
+      "o_licence_type" : "臺灣政府資料開放授權條款第 1 版",
+      "o_licence_url" : "http://data.ntpc.gov.tw/ab/license"
+    },
+    {
+      "OID" : ,
+      "o_name" : "嘉義縣",
+      "o_portal" : "嘉義縣政府資料開放平台",
+      "o_url" : "http://data.ntpc.gov.tw/",
+      "o_ckan" : "1",
+      "o_full_list" : "",
+      "o_licence_type" : "臺灣政府資料開放授權條款第 1 版",
+      "o_licence_url" : "http://data.ntpc.gov.tw/ab/license"
+    },
+    {
+      "OID" : ,
+      "o_name" : "屏東縣",
+      "o_portal" : "屏東縣政府資料開放平台",
+      "o_url" : "http://data.ntpc.gov.tw/",
+      "o_ckan" : "1",
+      "o_full_list" : "",
+      "o_licence_type" : "臺灣政府資料開放授權條款第 1 版",
+      "o_licence_url" : "http://data.ntpc.gov.tw/ab/license"
+    },
+    {
+      "OID" : ,
+      "o_name" : "宜蘭縣",
+      "o_portal" : "宜蘭縣政府資料開放平台",
+      "o_url" : "http://data.ntpc.gov.tw/",
+      "o_ckan" : "1",
+      "o_full_list" : "",
+      "o_licence_type" : "臺灣政府資料開放授權條款第 1 版",
+      "o_licence_url" : "http://data.ntpc.gov.tw/ab/license"
+    },
+    {
+      "OID" : ,
+      "o_name" : "花蓮縣",
+      "o_portal" : "花蓮縣政府資料開放平台",
+      "o_url" : "http://data.ntpc.gov.tw/",
+      "o_ckan" : "1",
+      "o_full_list" : "",
+      "o_licence_type" : "臺灣政府資料開放授權條款第 1 版",
+      "o_licence_url" : "http://data.ntpc.gov.tw/ab/license"
+    },
+    {
+      "OID" : ,
+      "o_name" : "臺東縣",
+      "o_portal" : "臺東縣政府資料開放平台",
+      "o_url" : "http://data.ntpc.gov.tw/",
+      "o_ckan" : "1",
+      "o_full_list" : "",
+      "o_licence_type" : "臺灣政府資料開放授權條款第 1 版",
+      "o_licence_url" : "http://data.ntpc.gov.tw/ab/license"
+    },
+    {
+      "OID" : ,
+      "o_name" : "澎湖縣",
+      "o_portal" : "澎湖縣政府資料開放平台",
+      "o_url" : "http://data.ntpc.gov.tw/",
+      "o_ckan" : "1",
+      "o_full_list" : "",
+      "o_licence_type" : "臺灣政府資料開放授權條款第 1 版",
+      "o_licence_url" : "http://data.ntpc.gov.tw/ab/license"
+    },
+    {
+      "OID" : ,
+      "o_name" : "基隆市",
+      "o_portal" : "基隆市政府資料開放平台",
+      "o_url" : "http://data.ntpc.gov.tw/",
+      "o_ckan" : "1",
+      "o_full_list" : "",
+      "o_licence_type" : "臺灣政府資料開放授權條款第 1 版",
+      "o_licence_url" : "http://data.ntpc.gov.tw/ab/license"     
+    },
+    {
+      "OID" : ,
+      "o_name" : "新竹市",
+      "o_portal" : "新竹市政府資料開放平台",
+      "o_url" : "http://data.ntpc.gov.tw/",
+      "o_ckan" : "1",
+      "o_full_list" : "",
+      "o_licence_type" : "臺灣政府資料開放授權條款第 1 版",
+      "o_licence_url" : "http://data.ntpc.gov.tw/ab/license"     
+    },
+    {
+      "OID" : ,
+      "o_name" : "嘉義市",
+      "o_portal" : "嘉義市政府資料開放平台",
+      "o_url" : "http://data.ntpc.gov.tw/",
+      "o_ckan" : "1",
+      "o_full_list" : "",
+      "o_licence_type" : "臺灣政府資料開放授權條款第 1 版",
+      "o_licence_url" : "http://data.ntpc.gov.tw/ab/license"      
+    },
+     {
+      "OID" : ,
+      "o_name" : "連江縣",
+      "o_portal" : "國發會政府資料開放平台",
+      "o_url" : "http://data.gov.tw/wise_search?nodetype=metadataset&kw=%E9%80%A3%E6%B1%9F%E7%B8%A3%E6%94%BF%E5%BA%9C",
+      "o_ckan" : "0",
+      "o_full_list" : null,
+      "o_licence_type" : "臺灣政府資料開放授權條款第 1 版",
+      "o_licence_url" : "http://data.gov.tw/license"
+    },
+    {
+      "OID" : ,
+      "o_name" : "金門縣",
+      "o_portal" : "金門縣政府資料開放平台",
+      "o_url" : "http://data.kinmen.gov.tw/",
+      "o_ckan" : "1",
+      "o_full_list" : null,
+      "o_licence_type" : "customized",
+      "o_licence_url" : "http://data.kinmen.gov.tw/ab/terms"
+    },
+  ]
+}
